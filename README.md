@@ -6,8 +6,9 @@
 - Reactive button to play and restart the game.
 - Conditional logic to determine who wins the game!
 
+<br> 
 
-
+Picture: Credits to the author [Vecteezy.](https://pt.vecteezy.com/arte-vetorial/691497-rock-paper-scissors-neon-icons) 
 
 <br>
 <hr>
