@@ -6,7 +6,8 @@
 - Reactive button to play and restart the game.
 - Conditional logic to determine who wins the game!
 
-<img alt="Rock_Paper_Scissors.gif" src="/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFUrQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc6adbfb4e1130a73fa0c6266600d6fb780b2013/Rock_Paper_Scissors.gif?disposition=attachment">
+
+
 
 
 <br>
