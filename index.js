@@ -24,15 +24,15 @@ const insertHTML = (choice1, choice2, result) => {
 const decideWinner = (a, b) => {
   if ((a === '✊' && b === '✊') || (a === '🤚' && b === '🤚') || (a === '✌️' && b === '✌️')) {
 
-    return "IT'S A TIE!";
+    return "It's a Tie!";
 
   } else if ((a === '✊' && b === '✌️') || (a === '🤚' && b === '✊') || (a === '✌️' && b === '🤚')) {
 
-    return "PLAYER 1 WINS!";
+    return "Player 1 Wins!";
 
   } else {
 
-    return "PLAYER 2 WINS!";
+    return "Player 2 Wins!";
 
   }
 };
