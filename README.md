@@ -8,6 +8,10 @@
 
 <br> 
 
+[Click Here! - GitHub Pages](https://chrysthy.github.io/Rock-Paper-Scissors-Game/)
+
+<br>
+
 Picture: Credits to the author [Vecteezy.](https://pt.vecteezy.com/arte-vetorial/691497-rock-paper-scissors-neon-icons) 
 
 <br>
